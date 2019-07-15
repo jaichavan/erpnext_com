@@ -1,20 +1,34 @@
 <!-- add-breadcrumbs -->
+
 # Issue
 
-Issue is an incoming query from your Customer, usually via email or
-from the “Contact” section of your website. (To fully integrate the Support
-Ticket to email, see the Email Settings section).
+**An issue is an expression of a query or dissatisfaction from your Customer. It can also be described as a report from a consumer providing review with documentation about a product or service.** 
 
-> Tip: A dedicated support Email Address is a good way to integrate incoming
-queries via email. For example, you can send support queries to ERPNext at
-support@erpnext.com and it will automatically create a Issue in the
-Frappe system.
+These incoming queries are usually received via emails or 'Contact' section of the website or helpline number.
 
-
-
-> Support > Issue > New Issue
+To access Issue, go to:
+> Home > Support > Issue
 
 <img class="screenshot" alt="Issue" src="{{docs_base_url}}/assets/img/support/issue.png">
+
+An **Issue** contains details about:
+
+  * The incoming query
+  * Description of the query
+  * Customer information such as contact email
+  * The status of the issue
+  * The priority of the issue
+  * The type of the issue
+  * Attachments, if any
+  * Service Level Agreement, if applicable.
+  * The time of first response.
+  * Other details.
+
+> Tip: Any incoming email can be appended to Issue List in ERPNext. Check out Email Settings for this configuration.
+
+## 1. How to create an Issue
+
+
 
 #### Discussion Thread
 
